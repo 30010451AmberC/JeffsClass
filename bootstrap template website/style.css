@@ -1,0 +1,27 @@
+.nav {
+    background-color: rgb(255, 144, 162);
+    height: 50px;
+}
+
+.b {
+    background-color: lightpink;
+    height: 50px;
+}
+
+.sidebar{
+    background-color: rgb(154, 191, 235);    
+}
+
+.sidebar-content {
+    height: 150px;
+}
+
+.main-content {
+    background-color: rgb(251, 252, 191);
+    height: 400px;
+}
+
+.main-content2 {
+    background-color: rgb(234, 247, 118);
+    height: 400px;
+}
